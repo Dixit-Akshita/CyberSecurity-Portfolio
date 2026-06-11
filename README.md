@@ -1,50 +1,48 @@
 # Cybersecurity Portfolio
 
-Welcome to my Cybersecurity Portfolio! This repository documents my hands-on learning journey and showcases labs, projects, and achievements from various cybersecurity platforms.
+Welcome to my Cybersecurity Portfolio! This repository documents my hands-on learning journey and showcases labs, projects, and achievements across various cybersecurity platforms and tools.
 
-## Platforms
+## 📚 Platforms and Tools
 
 * TryHackMe
 * Hack The Box
 * PicoCTF
 * Wireshark
-* Spunk
-* PortSwigger
+* Splunk
+* PortSwigger Web Security Academy
 
-## Repository Structure
+## 📂 Repository Structure
 
-```
+```text
 Cybersecurity-Portfolio
 │
 ├── TryHackMe
 ├── Hack The Box
 ├── PicoCTF
 ├── Wireshark
-├── Spunk 
+├── Splunk
 ├── PortSwigger
 ├── Projects
 └── Certificates
 ```
 
-## Purpose
+## 🎯 Purpose
 
 * Document my cybersecurity learning journey.
-* Showcase practical labs and projects.
-* Track progress across different platforms.
+* Showcase hands-on labs and projects.
+* Track progress across different platforms and tools.
 * Build a portfolio for internships and future opportunities.
 
-## Disclaimer
+## ⚠️ Disclaimer
 
-This repository is intended for educational purposes only. It does not contain flags, answers, or copyrighted lab solutions. The focus is on documenting concepts learned and practical experience gained.
+This repository is intended for educational purposes only. It does not contain flags, answers, or copyrighted lab solutions. The focus is on documenting concepts learned and practical experience gained through hands-on learning.
 
 ---
 
-### Connect with Me
+## 🌐 Connect with Me
 
-- Email - akshita15dec@gmail.com
+* 📧 Email: akshita15dec@gmail.com
+* 🔐 TryHackMe: https://tryhackme.com/p/AkshitaD
+* 💼 LinkedIn: https://www.linkedin.com/in/akshita-dixit
+* 🐦 X (Twitter):  https://x.com/AkshitaDixit_15?t=5MhQZBX7i1qSAW9Q_KfH0Q&s=09
 
-- TryHackMe - https://tryhackme.com/p/AkshitaD
-
-- LinkedIn: https://www.linkedin.com/in/akshita-dixit
-
-- Twitter - https://x.com/AkshitaDixit_15?t=5MhQZBX7i1qSAW9Q_KfH0Q&s=09
