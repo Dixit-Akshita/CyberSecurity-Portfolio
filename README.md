@@ -42,6 +42,9 @@ This repository is intended for educational purposes only. It does not contain f
 ### Connect with Me
 
 Email - akshita15dec@gmail.com
+
 TryHackMe - https://tryhackme.com/p/AkshitaD
+
 LinkedIn: https://www.linkedin.com/in/akshita-dixit
+
 Twitter - https://x.com/AkshitaDixit_15?t=5MhQZBX7i1qSAW9Q_KfH0Q&s=09
