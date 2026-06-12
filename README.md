@@ -9,21 +9,21 @@ Welcome to my Cybersecurity Portfolio! This repository documents my hands-on lea
 * PicoCTF
 * Wireshark
 * Splunk
-* PortSwigger Web Security Academy
+* PortSwigger
 
 ## 📂 Repository Structure
 
 ```text
 Cybersecurity-Portfolio
 │
-├── TryHackMe
+├── Certificates
 ├── Hack The Box
-├── PicoCTF
-├── Wireshark
-├── Splunk
 ├── PortSwigger
 ├── Projects
-└── Certificates
+├── SIEM
+├── TryHackMe
+├── Wireshark
+├── README.md
 ```
 
 ## 🎯 Purpose
