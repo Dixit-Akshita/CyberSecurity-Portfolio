@@ -13,4 +13,4 @@ Masterclass / Participation Certificate
 Attended the "Roadmap To Become A Cyber Security Professional" masterclass conducted by WsCube Tech to gain insights into cybersecurity career paths, learning resources, and industry opportunities.
 
 ## Certificate
-See `certificate.png`.
+See `certificate.jpg`.
