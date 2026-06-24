@@ -1,4 +1,3 @@
-
 # Defensive Security Intro
 
 Platform: TryHackMe
