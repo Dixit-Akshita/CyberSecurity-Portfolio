@@ -34,12 +34,4 @@ This room introduced the fundamentals of offensive security and gave a hands on 
   
 ## Proof of Completion
 
-<table>
-<tr>
-<td>
-
-<img src="Offensive Security Intro.png" width="400">
-
-</td>
-</tr>
-</table>
+<img width="1342" height="330" alt="Offensive Security Intro" src="https://github.com/user-attachments/assets/55b57e03-c7b6-4f72-aea1-a3f2b2413906" />
