@@ -8,6 +8,7 @@ Module: 1
 
 Status: Completed
 
+
 ## Overview
 This room introduced the fundamentals of offensive security and gave a hands on experience for how ethical hackers identify and exploit vulnerabilities to improve security.
 
