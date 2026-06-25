@@ -42,3 +42,6 @@ This room introduced the fundamentals of networking, including how devices commu
 
 
 ## Proof of Completion
+
+<img width="1483" height="328" alt="What is Networking " src="https://github.com/user-attachments/assets/fbd05377-bee8-4e47-a095-845a1198104e" />
+
