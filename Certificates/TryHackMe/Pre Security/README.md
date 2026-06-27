@@ -20,14 +20,9 @@ It covers networking, web technologies, operating systems, programming basics, a
 - 🔐 Attacks & Defenses
 - 🛡️ CIA Triad & Cryptography
 
-## 🖼️ Certificate Preview
+## 🖼️ Certificate 
 
 <img width="897" height="637" alt="Pre Security Certificate" src="https://github.com/user-attachments/assets/45e1aa1c-b10b-466e-ac57-619ac7d810a8" />
-
-
-## 📄 Certificate
-
-📥 **Download PDF:** [Pre-Security-Certificate.pdf](./Pre Security Certificate.pdf)
 
 ---
 
