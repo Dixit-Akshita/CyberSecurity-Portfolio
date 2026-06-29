@@ -37,4 +37,6 @@ This room introduced the fundamentals of defensive security and gave a hands on 
 
 Defensive security focuses on detecting, preventing, and responding to cyber threats by identifying abnormal activities and unauthorized access.
 
+## Proof of Completion
+
 <img width="1327" height="327" alt="Defensive Security Intro" src="https://github.com/user-attachments/assets/0e7322e9-f31f-49cb-80ee-7f8a56196f75" />
