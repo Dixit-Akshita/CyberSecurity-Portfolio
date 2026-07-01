@@ -6,7 +6,6 @@ Welcome to my Cybersecurity Portfolio! This repository documents my hands-on lea
 
 * TryHackMe
 * Hack The Box
-* PicoCTF
 * Wireshark
 * Splunk
 * PortSwigger
