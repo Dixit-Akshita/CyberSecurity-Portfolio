@@ -8,34 +8,41 @@ Module: 1
 
 Status: Completed
 
+
 ## Overview
 
-This room introduced the fundamentals of defensive security and gave a hands on experience for how SIEM works to identify and block unauthorised access to improve security.
+This room introduced the fundamentals of Defensive Security and the role of security teams in protecting systems from cyber threats. It also provided hands-on experience with a Security Information and Event Management (SIEM) platform to investigate suspicious activities and identify potential security incidents.
+
 
 ## Topics Covered
 
 - Defensive Security
-- Security Operations Center
+- Security Operations Center (SOC)
 - Threat Intelligence
 - Digital Forensics and Incident Response (DFIR)
 - Malware Analysis
 
+
 ## Practical Activity
 
-- Interacted with the target machine.
+- Accessed the target machine.
 - Inspected the SIEM Dashboard.
+- Investigated security events.
 - Performed the assigned task.
 - Retrieved the required flag.
 
-## Skills Gained
 
-- Understanding of defensive security concepts.
-- Familiarity with the role of SOC teams.
-- Basic exposure to hands-on cybersecurity labs.
+## Key Learnings
 
+- Learned the fundamentals of defensive security.
+- Understood the role and responsibilities of a Security Operations Center (SOC).
+- Gained basic exposure to SIEM platforms and security event monitoring.
+- Learned how defensive teams detect, investigate, and respond to cyber threats.
+
+  
 ## Notes
 
-Defensive security focuses on detecting, preventing, and responding to cyber threats by identifying abnormal activities and unauthorized access.
+Through this room, I learned the core concepts of Defensive Security and how security teams use SIEM tools to monitor, detect, and investigate suspicious activities. This room provided a practical introduction to SOC operations and laid the foundation for understanding incident detection and response.
 
 ## Proof of Completion
 
