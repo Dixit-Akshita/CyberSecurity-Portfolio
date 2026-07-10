@@ -2,7 +2,7 @@
 
 Platform: TryHackMe
 
-Path: Pre Security
+Path: Cyber Security 101
 
 Module: 1
 
@@ -10,7 +10,7 @@ Status: Completed
 
 
 ## Overview
-This room introduced the fundamentals of offensive security and gave a hands on experience for how ethical hackers identify and exploit vulnerabilities to improve security.
+This room introduced the fundamentals of Offensive Security and the role of ethical hackers in identifying and exploiting vulnerabilities to improve an organization's security. It also provided hands-on experience with basic penetration testing concepts and web application enumeration.
 
 
 ## Topics Covered
@@ -21,21 +21,24 @@ This room introduced the fundamentals of offensive security and gave a hands on 
 
 
 ## Practical Activity
-- Interacted with the target machine.
-- Investigated the website.
-- Hacked it and performed the assigned task.
+- Accessed the target machine.
+- Investigated the target website.
+- Performed web enumeration using dirb.
+- Identified the required resource.
+- Completed the assigned task.
 - Retrieved the required flag.
 
 
-## Skills Gained
-- Understanding of offensive security concepts.
-- Familiarity with the role of ethical hackers.
-- Basic exposure to hands-on cybersecurity labs.
+## Key Learnings
+- Learned the fundamentals of offensive security.
+- Understood the role and responsibilities of ethical hackers.
+- Gained basic exposure to penetration testing concepts.
+- Learned the importance of reconnaissance and web enumeration in identifying hidden resources.
 
 
-## Notes
-- Important Tool Used: dirb
-- To provide security, one needs to think like a hacker.
+## Summary
+Through this room, I learned the core concepts of Offensive Security and how ethical hackers identify vulnerabilities to strengthen an organization's security. I also gained hands-on experience with dirb, a web content enumeration tool, and understood the importance of thinking like an attacker to better defend systems.
+
 
 
 ## Proof of Completion
