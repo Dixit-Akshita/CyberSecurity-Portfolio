@@ -6,7 +6,7 @@ Module: 2
 Status: Completed
 
 ## Overview
-This room introduced the fundamentals of Local Area Networks (LANs) including technologies, subnetting, ARP, DHCP. It also included interactive lab exercises to demonstrate how devices communicate within a LAN.
+This room introduced the fundamentals of Local Area Networks (LANs), including LAN technologies, subnetting, Address Resolution Protocol (ARP), and Dynamic Host Configuration Protocol (DHCP). It also included interactive exercises to demonstrate how devices communicate within a local network.
 
 
 ## Topics Covered
@@ -16,19 +16,21 @@ This room introduced the fundamentals of Local Area Networks (LANs) including te
 - Dynamic Host Configuration Protocol (DHCP)
 
 ## Practical Activity
-- Completed interactive labs demonstrating LAN communication and networking concepts.
-- Explored how LAN technologies operate and how communication failures can occur.
-- Successfully completed all assigned tasks.
+- Completed interactive labs demonstrating LAN communication.
+- Explored how devices communicate within a LAN.
+- Observed how communication failures can occur.
+- Completed all assigned tasks.
 - Retrieved the required flag.
 
-## Skills Gained
-- Understood the fundamentals of LAN technologies.
-- Learned how subnetting divides networks into smaller segments.
-- Understood how ARP maps IP addresses to MAC addresses.
-- Learned how DHCP automatically assigns IP addresses to devices.
+## Key Learnings
+-Learned the fundamentals of Local Area Networks (LANs).
+- Understood how subnetting divides networks into smaller segments.
+- Learned how ARP resolves IP addresses to MAC addresses.
+- Understood how DHCP automatically assigns IP addresses to devices.
+- Gained a better understanding of communication within a local network.
 
-## Notes
-Communication within a LAN relies on ARP for IP-to-MAC resolution and DHCP for automatic IP assignment, while routers enable communication between different subnets.
+## Summary
+Through this room, I learned the core concepts of Local Area Networks (LANs) and how devices communicate within the same network. I also understood the roles of ARP in IP-to-MAC address resolution and DHCP in automatic IP address allocation, along with the importance of subnetting in network organization.
 
 ## Proof of Completion
 
