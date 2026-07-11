@@ -1,4 +1,4 @@
-# **What is Networking?**
+# What is Networking?
 
 Platform: TryHackMe
 
@@ -10,13 +10,12 @@ Status: Completed
 
 
 ## Overview
-This room introduced the fundamentals of networking, including how devices communicate over the internet, IP addressing and MAC addresses, while also providing hands-on experience with MAC Spoofing and the use of the ping command.
-
+This room introduced the fundamentals of networking, including how devices communicate over the internet, the concepts of IP and MAC addresses, and the basics of MAC spoofing. It also provided hands-on experience with network connectivity testing using the ping command.
 
 ## Topics Covered
 - Networking Fundamentals
 - The Internet
-- IP Addresses and Types
+- IP Addresses and their Types
 - MAC Addresses
 - MAC Spoofing
 
@@ -25,20 +24,21 @@ This room introduced the fundamentals of networking, including how devices commu
 - Interacted with the target machine.
 - Performed MAC Spoofing.
 - Used the **ping** command to test connectivity
-- Retrieved the required flag.
+- Completed the assigned task and retrieved the required flag.
 
 
-## Skills Gained
-- Understood how networking works.
-- Learned what and how spoofing works.
-- Used ping command to test network connectivity.
-- Basic exposure to hands-on cybersecurity labs.
+## Key Learnings
+- Learned the fundamentals of networking and device communication.
+- Understood the purpose of IP and MAC addresses.
+- Learned how MAC spoofing works and its practical use cases.
+- Gained hands-on experience using the ping command to verify network connectivity.
+
+## Summary
+Through this room, I learned the basic concepts of computer networking and how devices communicate over a network using IP and MAC addresses. I also gained practical experience with MAC spoofing and used the ping command to test connectivity between devices.
 
 
-## Notes
-- Tool Used: ping
-- IP Addresses can be reassigned or changed.
-- MAC Addresses uniquely identify network interfaces and can be spoofed when required.
+## Important Tool Used
+ping – Used to test network connectivity and verify communication between devices.
 
 
 ## Proof of Completion
