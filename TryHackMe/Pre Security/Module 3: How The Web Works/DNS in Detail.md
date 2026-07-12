@@ -1,30 +1,36 @@
-
 # DNS in Detail
 
-Platform: TryHackMe 
-Path: Pre Security 
-Module: 3 
+Platform: TryHackMe
+
+Path: Pre Security
+
+Module: 3
+
+Difficulty:
+
+Room Link: 
+
 Status: Completed
 
+
 ## Overview
+
 
 
 ## Topics Covered
 
 
 ## Practical Activity
-
-- Successfully completed all assigned tasks.
+- Accessed the target machine.
+- Performed the assigned task.
 - Retrieved the required flag.
 
 
-## Skills Gained
+## Key Learnings
 
 
-## Notes
+
+## Summary
 
 
 ## Proof of Completion
-
-
-<img width="1315" height="330" alt="DNS in Detail" src="https://github.com/user-attachments/assets/4993f4e2-e6e7-4730-979a-8575c9abe4fd" />
