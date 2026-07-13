@@ -1,8 +1,11 @@
 # **Intro to LAN**
 
 Platform: TryHackMe
+
 Path: Pre Security
+
 Module: 2
+
 Status: Completed
 
 ## Overview
