@@ -1,5 +1,10 @@
 # 🌴 TryHackMe - Hacker Holidays 2026
 
+<img width="1890" height="888" alt="Screenshot 2026-07-25 175733" src="https://github.com/user-attachments/assets/02368e07-d763-4db7-8e4c-d74fd0d067c7" />
+
+
+
+
 A collection of my notes and documentation from **TryHackMe's Hacker Holidays 2026**, a free 14-day story-driven cybersecurity event.
 
 > **Status:** In Progress 🚧
