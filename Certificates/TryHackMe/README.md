@@ -9,8 +9,8 @@ This folder contains the certificates I have earned by completing TryHackMe lear
 | Learning Path | Status | Certificate |
 |---------------|--------|-------------|
 | 🛡️ Pre Security | ✅ Completed | [View](./Pre-Security/) |
-| 🎯 Cyber Security 101 | ⏳ In Progress | - |
-| 🔵 SOC Level 1 | ⏳ Planned | - |
+| 🎯 Cyber Security 101 | ✅ Completed |  [View](./Cyber-Security-101/) |
+| 🔵 SOC Level 1 | ⏳ In Progress | - |
 
 
 ## 🎯 Purpose
