@@ -57,8 +57,8 @@ This beginner-level course provided a comprehensive introduction to cybersecurit
 **20 June 2026**
 
 ## Certificate
+<img width="855" height="600" alt="image" src="https://github.com/user-attachments/assets/7625fab5-15ee-43f3-a4f1-d78cccc25166" />
 
-`Simplilearn Introduction to Cyber Security.pdf`
 
 ## Learning Journey
 
