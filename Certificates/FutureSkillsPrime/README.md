@@ -26,7 +26,8 @@ This beginner-level pathway introduced fundamental cybersecurity concepts and pr
 
 ## 📜 Certificate
 
-* `FutureSkillsPrime_Overview_of_Cybersecurity_Certificate.pdf`
+<img width="1095" height="567" alt="image" src="https://github.com/user-attachments/assets/e0da8a8b-3b0f-4e17-82da-0fce77be7b99" />
+`
 
 ## 🚀 Learning Journey
 
