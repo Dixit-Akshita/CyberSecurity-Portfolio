@@ -54,7 +54,7 @@ At the Byte Lotus Hotel, guests interact with an AI concierge named **VERA**. Th
 * Analytical Problem Solving
 
 
-### Challenge Completion
+## Challenge Completion
 
 <img width="883" height="641" alt="Screenshot 2026-07-28 201221" src="https://github.com/user-attachments/assets/a509b913-57fa-4517-9437-45f87b507126" />
 
