@@ -57,6 +57,7 @@ Guests at the Byte Lotus Hotel were encouraged to install a complimentary wellne
 
 ## Challenge Completion
 
+<img width="892" height="626" alt="Screenshot 2026-07-30 232619" src="https://github.com/user-attachments/assets/9a132ad1-094d-4c2e-bf66-39f5f07d33fa" />
 
 
 
