@@ -56,8 +56,11 @@ At the Byte Lotus Hotel, an exposed service hinted that more existed than what w
 ## Tools Used
 
 AttackBox – Challenge environment
+
 Web Browser – Website exploration
+
 Gobuster – Directory and file enumeration
+
 Git – Repository analysis
 
 ---
