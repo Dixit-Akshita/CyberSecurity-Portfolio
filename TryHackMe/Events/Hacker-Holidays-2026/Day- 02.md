@@ -53,6 +53,13 @@ At the Byte Lotus Hotel, an exposed service hinted that more existed than what w
 * Web Security Fundamentals
 * Analytical Thinking
 
+## Tools Used
+
+AttackBox – Challenge environment
+Web Browser – Website exploration
+Gobuster – Directory and file enumeration
+Git – Repository analysis
+
 ---
 
 ## Challenge Completion
