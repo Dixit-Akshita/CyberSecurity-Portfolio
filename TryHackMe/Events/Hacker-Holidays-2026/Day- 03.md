@@ -53,6 +53,20 @@ Guests at the Byte Lotus Hotel were encouraged to install a complimentary wellne
 * Cloud Reconnaissance
 * Security Analysis
 
+
+## Tools Used
+
+Web Browser – Application exploration
+
+Browser Developer Tools – Client-side analysis
+
+AWS CLI – Cloud resource interaction
+
+AWS Services (Cognito, IAM, DynamoDB) – Identity, access, and data analysis
+
+AttackBox – Challenge environment
+
+
 ---
 
 ## Challenge Completion
