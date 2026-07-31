@@ -1,7 +1,8 @@
 # OSINT Cyber Security Workshop
 
 **Organizer:** Cyber Intelligence Community (CIC), Lucknow  
-**Date:** 26th July'26 
+**Date:** 26th July'26
+
 **Speaker:** Sarist Pandey  
 **Status:** ✅ Completed
 
