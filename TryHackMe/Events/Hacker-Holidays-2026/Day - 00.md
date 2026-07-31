@@ -53,6 +53,13 @@ Before arriving at the Byte Lotus Hotel, participants investigated its online pr
 * Analytical Investigation
 
 
+## Tools Used
+
+- Web Browser – Initial investigation
+- Instagram – Social media intelligence gathering
+- CyberChef – Decoding and data transformation
+
+
 ## Challenge Completion
 
 <img width="838" height="543" alt="image" src="https://github.com/user-attachments/assets/ac16ef73-2956-446f-93db-3a52da0b73bf" />
