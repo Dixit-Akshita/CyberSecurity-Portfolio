@@ -57,12 +57,12 @@ At the Byte Lotus Hotel, unusual activity suggested that someone already had acc
 ## Tools Used
 
 * AttackBox
-* cURL
+* curl command
 * Web Browser
 
 ---
 
-### Task Completed
+## Challenge Completed
 
 <img width="705" height="597" alt="Screenshot 2026-08-03 132153" src="https://github.com/user-attachments/assets/c086c04a-87d3-4504-8a14-938bd2191604" />
 
