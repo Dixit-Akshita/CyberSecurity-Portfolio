@@ -64,7 +64,7 @@ A captured conversation from the Byte Lotus Hotel breakfast terrace contained su
 
 ---
 
-### Challenge Completion
+## Challenge Completion
 
 <img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/9dfefab6-a042-487b-8e19-3de6a4cb8dd8" />
 
