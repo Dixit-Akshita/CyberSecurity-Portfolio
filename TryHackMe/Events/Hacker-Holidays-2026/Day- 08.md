@@ -62,7 +62,7 @@ At the Byte Lotus Hotel, a guest rewards application allowed users to claim peri
 
 ---
 
-### Challenge Completed
+## Challenge Completed
 
 <img width="880" height="642" alt="Screenshot 2026-08-04 074626" src="https://github.com/user-attachments/assets/2f58b406-a515-429d-894e-5a8541b8f592" />
 
