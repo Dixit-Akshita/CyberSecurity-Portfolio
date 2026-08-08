@@ -61,7 +61,7 @@ The Byte Lotus Hotel provided a portal that allowed users to upload custom conte
 
 ---
 
-### Task Completed
+## Challenge Completed
 
 <img width="873" height="646" alt="Screenshot 2026-08-06 195459" src="https://github.com/user-attachments/assets/868f7f4f-7feb-4d4e-b1fa-09cb2700118e" />
 
