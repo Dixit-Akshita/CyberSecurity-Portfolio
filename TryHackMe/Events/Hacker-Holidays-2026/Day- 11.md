@@ -61,7 +61,7 @@ The Byte Lotus Hotel environment contained systems that were not immediately vis
 
 ---
 
-### Task Completed
+## Challenge Completed
 <img width="901" height="650" alt="image" src="https://github.com/user-attachments/assets/de8fb705-325e-4a7e-ab15-c997edc9d9f8" />
 
 
