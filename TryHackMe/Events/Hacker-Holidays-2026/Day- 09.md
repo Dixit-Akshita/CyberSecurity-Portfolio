@@ -65,7 +65,7 @@ A cloud-hosted backup kiosk claimed to securely protect sensitive information fo
 
 ---
 
-### Task Completed
+## Challenge Completed
 
 <img width="918" height="637" alt="Screenshot 2026-08-05 220709" src="https://github.com/user-attachments/assets/ed98d8be-be43-4cf8-9eec-9d4ae4bef48d" />
 
