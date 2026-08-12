@@ -12,7 +12,7 @@ The workshop focused on **Open Source Intelligence (OSINT)** and cybersecurity.
 
 
 
-For workshop details, learning outcomes, and participation information, see **[Workshops & Webinars/OSINT Cyber Security Workshop.md](../Webinar%20and%20Workshop/OSINT%20Cyber%20Security%20Workshop.md)**.
+For workshop details, learning outcomes, and participation information, see **[OSINT Cyber Security Workshop.md](../Webinar%20&%20Workshop/OSINT%20Cyber%20Security%20Workshop.md)**.
 
 
 
