@@ -11,7 +11,7 @@ This folder contains the certificates I have earned by completing TryHackMe lear
 | 🛡️ Pre Security | ✅ Completed | [View](./Pre-Security/) |
 | 🎯 Cyber Security 101 | ✅ Completed |  [View](./Cyber-Security-101/) |
 | 🔵 SOC Level 1 | ⏳ In Progress | - |
-
+|🌴 Hacker Holidays 2026 | ✅ Completed | [View](./Hacker-Holidays-2026/) |
 
 ## 🎯 Purpose
 
