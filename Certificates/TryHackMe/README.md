@@ -8,10 +8,10 @@ This folder contains the certificates I have earned by completing TryHackMe lear
 
 | Learning Path | Status | Certificate |
 |---------------|--------|-------------|
-| 🛡️ Pre Security | ✅ Completed | [View](./Pre-Security/) |
-| 🎯 Cyber Security 101 | ✅ Completed |  [View](./Cyber-Security-101/) |
+| 🛡️ Pre Security | ✅ Completed | [View](./Pre-Security.md/) |
+| 🎯 Cyber Security 101 | ✅ Completed |  [View](./Cyber-Security-101.md/) |
 | 🔵 SOC Level 1 | ⏳ In Progress | - |
-|🌴 Hacker Holidays 2026 | ✅ Completed | [View](./Hacker-Holidays-2026/) |
+|🌴 Hacker Holidays 2026 | ✅ Completed | [View](./TryHackMe-Hacker-Holidays-2026.md/) |
 
 ## 🎯 Purpose
 
