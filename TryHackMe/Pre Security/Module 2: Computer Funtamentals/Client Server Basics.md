@@ -28,3 +28,5 @@ Status: Completed
 
 ## Proof of Completion
 
+<img width="1317" height="317" alt="Client-Server Basics" src="https://github.com/user-attachments/assets/e9852afb-5688-47ff-b04f-636b7889f1dd" />
+
