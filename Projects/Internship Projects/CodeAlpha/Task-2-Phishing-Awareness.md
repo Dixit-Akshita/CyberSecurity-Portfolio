@@ -30,4 +30,4 @@ An interactive quiz was developed to reinforce phishing awareness and test users
 
 ## 🔗 Project Repository
 
-[View Complete Project on GitHub](PASTE-YOUR-TASK-2-REPO-LINK-HERE)
+[View Complete Project on GitHub](https://github.com/Dixit-Akshita/CodeAlpha_PhishingAwarenessTraining.git)
