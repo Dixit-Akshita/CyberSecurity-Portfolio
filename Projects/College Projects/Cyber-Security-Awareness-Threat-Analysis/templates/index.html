@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CYBER SECURITY AWARENESS & THREAT ANALYSER</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+
+            background: url("https://images.unsplash.com/photo-1550751827-4bd374c3f58b") no-repeat center center/cover;
+            color: white;
+            text-align: center;
+        }
+
+        body::before {
+            content: "";
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.75);
+            z-index: -1;
+        }
+
+        /* 🔝 NAVBAR */
+        .navbar {
+            background: rgba(0,0,0,0.9);
+            padding: 15px;
+        }
+
+        .navbar a {
+            color: #00eaff;
+            margin: 0 20px;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .navbar a:hover {
+            color: white;
+        }
+
+        /* 🧠 HEADING */
+        h1 {
+            margin-top: 70px;
+            font-size: 34px;
+            color: #00eaff;
+            text-shadow: 0 0 15px cyan;
+        }
+
+        /* 🧩 MODULES */
+        .modules {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 90px;
+            flex-wrap: wrap;
+        }
+
+        /* 🟦 CARD */
+        .card {
+            background: rgba(20,20,20,0.9);
+            padding: 35px;
+            width: 280px;
+            border-radius: 15px;
+            cursor: pointer;
+            transition: 0.4s;
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* 🔥 GLOW BORDER */
+        .card::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            border-radius: 15px;
+            padding: 2px;
+
+            background: linear-gradient(270deg, cyan, blue, purple, cyan);
+            background-size: 400% 400%;
+            animation: borderMove 5s linear infinite;
+
+            -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+            -webkit-mask-composite: xor;
+            mask-composite: exclude;
+
+            pointer-events: none;
+        }
+
+        @keyframes borderMove {
+            0% { background-position: 0% 50%; }
+            100% { background-position: 100% 50%; }
+        }
+
+        /* ✨ HOVER */
+        .card:hover {
+            transform: translateY(-8px) scale(1.03);
+            box-shadow: 0 15px 30px rgba(0,255,255,0.3);
+        }
+
+        /* 🔥 MODULE HEADING GLOW (MAIN THING) */
+        .card h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+            color: #00eaff;
+            transition: 0.3s;
+        }
+
+        .card:hover h2 {
+            text-shadow: 
+                0 0 10px cyan,
+                0 0 20px cyan,
+                0 0 40px blue;
+        }
+
+        .card p {
+            font-size: 14px;
+            color: #ccc;
+        }
+    </style>
+</head>
+
+<body>
+
+<!-- 🔝 NAVBAR -->
+<div class="navbar">
+    <a href="/">Home</a>
+    <a href="/url">PHISHING DETECTION MODULE</a>
+    <a href="/password">PASSWORD STRENGTH ANALYZER</a>
+    <a href="/awareness">CYBER SECURITY AWARENESS</a>
+</div>
+
+<!-- 🧠 HEADING -->
+<h1>Cyber Security Tool</h1>
+
+<!-- 🧩 MODULES -->
+<div class="modules">
+
+    <div class="card" onclick="location.href='/url'">
+        <h2>PHISHING DETECTION MODULE</h2>
+        <p>Check if a link is safe or phishing</p>
+    </div>
+
+    <div class="card" onclick="location.href='/password'">
+        <h2>PASSWORD STRENGTH ANALYZER</h2>
+        <p>Analyze password security level</p>
+    </div>
+
+    <div class="card" onclick="location.href='/awareness'">
+        <h2>CYBER SECURITY AWARENESS</h2>
+        <p>Learn about cyber threats & safety tips</p>
+    </div>
+
+</div>
+
+</body>
+</html>

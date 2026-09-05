@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PHISHING DETECTION MODULE</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <style>
+        .container {
+            margin-top: 100px;
+            text-align: center;
+        }
+
+        .box {
+            width: 420px;
+            margin: auto;
+            padding: 30px;
+            background: rgba(17,17,17,0.92);
+            border-radius: 15px;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 0 20px rgba(0,255,255,0.2);
+        }
+
+        /* 🔥 BORDER */
+        .box::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            border-radius: 15px;
+            padding: 2px;
+
+            background: linear-gradient(270deg, cyan, blue, purple, cyan);
+            background-size: 400% 400%;
+            animation: borderMove 4s linear infinite;
+
+            -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+            -webkit-mask-composite: xor;
+            mask-composite: exclude;
+
+            pointer-events: none;
+        }
+
+        @keyframes borderMove {
+            0% { background-position: 0% 50%; }
+            100% { background-position: 100% 50%; }
+        }
+
+        h1 {
+            text-shadow: 0 0 10px cyan;
+        }
+
+        #resultBox {
+            margin-top: 25px;
+        }
+
+        /* ⚡ LOADING */
+        .loading {
+            color: cyan;
+            animation: blink 1s infinite;
+        }
+
+        @keyframes blink {
+            50% { opacity: 0.5; }
+        }
+
+        /* ✨ URL INPUT STYLE */
+        .input-group {
+            position: relative;
+            width: 80%;
+            margin: auto;
+        }
+
+        .prefix {
+            position: absolute;
+            left: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #888;
+            font-size: 14px;
+        }
+
+        .input-group input {
+            width: 100%;
+            padding-left: 85px;
+        }
+    </style>
+</head>
+
+<body class="url-page">
+
+<!-- 🔝 NAVBAR -->
+<div class="navbar">
+    <a href="/">Home</a>
+    <a href="/url">URL Checker</a>
+    <a href="/password">Password</a>
+    <a href="/awareness">Awareness</a>
+</div>
+
+<div class="container">
+    <div class="box">
+
+        <h1>🔍 URL Safety Checker</h1>
+
+        <!-- 🔥 INPUT WITH https PREFIX -->
+        <div class="input-group">
+            <span class="prefix">https://</span>
+            <input type="text" id="urlInput" placeholder="example.com" required>
+        </div>
+
+        <br>
+
+        <!-- BUTTONS -->
+        <button onclick="checkURL()">Check</button>
+        <button onclick="clearResult()">Clear</button>
+
+        <!-- RESULT -->
+        <div id="resultBox"></div>
+
+    </div>
+</div>
+
+<!-- ⚡ SCRIPT -->
+<script>
+function checkURL() {
+    let url = document.getElementById("urlInput").value.trim();
+
+    if (!url) {
+        alert("Please enter a URL");
+        return;
+    }
+
+    document.getElementById("resultBox").innerHTML =
+        "<p class='loading'>Scanning URL...</p>";
+
+    fetch('/check_url', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/x-www-form-urlencoded',
+        },
+        body: 'url=' + encodeURIComponent(url)
+    })
+    .then(res => res.json())
+    .then(data => {
+        let colorClass = "";
+
+        if (data.result === "Safe") colorClass = "safe";
+        else if (data.result === "Suspicious") colorClass = "medium";
+        else colorClass = "danger";
+
+        document.getElementById("resultBox").innerHTML = `
+            <h2 class="${colorClass}">${data.result}</h2>
+            <p>${data.suggestion}</p>
+        `;
+    })
+    .catch(() => {
+        document.getElementById("resultBox").innerHTML =
+            "<p style='color:red;'>Error checking URL</p>";
+    });
+}
+
+function clearResult() {
+    document.getElementById("urlInput").value = "";
+    document.getElementById("resultBox").innerHTML = "";
+}
+</script>
+
+</body>
+</html>
