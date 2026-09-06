@@ -1,14 +1,13 @@
 # Cybersecurity Portfolio
 
-Welcome to my Cybersecurity Portfolio! This repository documents my hands-on learning journey and showcases labs, projects, and achievements across various cybersecurity platforms and tools.
+Welcome to my Cybersecurity Portfolio. This repository documents my hands-on cybersecurity learning, projects, practical work, and achievements.
 
-## 📚 Platforms and Tools
+## 🔐 Core Areas
 
-* TryHackMe
-* Hack The Box
-* Wireshark
-* Splunk
-* PortSwigger
+* Security Monitoring & SIEM
+* Network Security & Analysis
+* Security Tools & Practical Labs
+* Cybersecurity Fundamentals
 
 ## 📂 Repository Structure
 
@@ -16,25 +15,24 @@ Welcome to my Cybersecurity Portfolio! This repository documents my hands-on lea
 Cybersecurity-Portfolio
 │
 ├── Certificates
-├── Hack The Box
-├── PortSwigger
 ├── Projects
 ├── SIEM
+├── Tools
 ├── TryHackMe
-├── Wireshark
-├── README.md
+├── Workshops & Webinars
+└── README.md
 ```
 
 ## 🎯 Purpose
 
 * Document my cybersecurity learning journey.
-* Showcase hands-on labs and projects.
-* Track progress across different platforms and tools.
-* Build a portfolio for internships and future opportunities.
+* Showcase practical projects and hands-on experience.
+* Maintain notes, labs, and security-related work.
+* Track certifications, workshops, and achievements.
 
 ## ⚠️ Disclaimer
 
-This repository is intended for educational purposes only. It does not contain flags, answers, or copyrighted lab solutions. The focus is on documenting concepts learned and practical experience gained through hands-on learning.
+This repository is intended for educational purposes only. It does not contain flags, answers, credentials, or copyrighted lab solutions. The content focuses on concepts learned and practical experience gained.
 
 ---
 
