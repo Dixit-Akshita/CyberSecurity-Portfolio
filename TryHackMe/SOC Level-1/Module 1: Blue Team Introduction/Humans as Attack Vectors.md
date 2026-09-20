@@ -1,3 +1,4 @@
 ## Proof of Completion
 
-<img width="922" height="476" alt="Humans as Attack Vectors" src="https://github.com/user-attachments/assets/e2b8c98a-483c-4b3a-a351-7ced15ec1118" />
+<img width="1468" height="352" alt="Humans As Attack Vectors " src="https://github.com/user-attachments/assets/41c0f7bb-aa87-4eb1-9125-de76fc8c7778" />
+
