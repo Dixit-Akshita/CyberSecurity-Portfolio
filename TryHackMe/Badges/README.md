@@ -1,12 +1,15 @@
-# TryHackMe Badges
+# 🛡️ TryHackMe Badges
 
-A collection of badges earned through my TryHackMe learning journey, reflecting progress in cybersecurity, SOC, and defensive security.
+> **Hands-on learning. Practical skills. Continuous progress.**
 
-----------------------
-----------------------
-## Badges
+A collection of badges earned through my **TryHackMe cybersecurity journey**, reflecting my progress across **Cybersecurity, SOC Operations, and Defensive Security**.
 
-* **SOC Apprentice** — Explored how a SOC team operates and gained exposure to SOC workflows and threat response.
-* **Defensive Toolsmith** — Built familiarity with essential SOC tools used for detection.
+### 🏅 Earned Badges
 
-More badges will be added as I progress through my TryHackMe learning paths.
+All earned badges are organized in this folder and will be updated as I complete new learning paths and practical labs.
+
+---
+
+🔐 **Focus:** Defensive Cybersecurity & SOC Operations
+🎯 **Platform:** TryHackMe
+📈 **Progress:** Continuously Learning
