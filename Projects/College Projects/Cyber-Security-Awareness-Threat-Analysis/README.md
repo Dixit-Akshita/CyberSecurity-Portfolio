@@ -1,7 +1,7 @@
 # 🔐 Cyber Security Awareness & Threat Analysis System
 
 **Project Type:** College Academic Project  
-**Semester:** 6th Semester
+**Semester:** 7th Semester
 
 ## 📌 Overview
 
