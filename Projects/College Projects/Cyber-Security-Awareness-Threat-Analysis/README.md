@@ -3,6 +3,10 @@
 **Project Type:** College Academic Project  
 **Semester:** 7th Semester
 
+## 🌐 Live Demo
+
+**Live Project:** [Open Application](https://cyber-security-awareness-threat-analysis.onrender.com)
+
 ## 📌 Overview
 
 The Cyber Security Awareness & Threat Analysis System is a web-based application developed to help users understand common cybersecurity risks and perform basic security checks.
@@ -31,6 +35,7 @@ The project provides simple tools for identifying potentially suspicious URLs, c
 - **Programming Language:** Python
 - **Backend Framework:** Flask
 - **Frontend:** HTML, CSS, JavaScript
+- **Deployment:** Render
 
 ## 🎯 Key Features
 
@@ -38,37 +43,30 @@ The project provides simple tools for identifying potentially suspicious URLs, c
 - Password strength checking.
 - Cybersecurity awareness content.
 - Simple and user-friendly web interface.
-- Web-based access through a local development server.
+- Publicly accessible web application.
 
 ## ⚙️ Installation & Setup
 
-Follow these steps to run the project on your local system.
-
 ### Prerequisites
-
-Make sure the following software is installed:
-
 - Python 3.x
 - pip (Python package installer)
 - A web browser
 
-### Step 1: Download the Project
+### Step 1: Clone the Repository
 
-Download or clone the project repository to your local system.
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
 
 ### Step 2: Open the Project Folder
 
-Open the project directory in VS Code or any preferred code editor.
-
-### Step 3: Install Dependencies
-
-Open the terminal inside the project directory and install Flask:
+Navigate to the project directory:
 
 ```bash
-pip install flask
+cd "Cyber-Security-Awareness-Threat-Analysis"
 ```
 
-If a `requirements.txt` file is available, use:
+### Step 3: Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -76,17 +74,11 @@ pip install -r requirements.txt
 
 ### Step 4: Run the Application
 
-Run the main Python application file using:
-
 ```bash
 python app.py
 ```
 
-*Note: Replace `app.py` with the actual main Python filename if it is different.*
-
 ### Step 5: Open in Browser
-
-After starting the Flask server, open the following address in your web browser:
 
 ```text
 http://127.0.0.1:5000/
@@ -107,12 +99,13 @@ This project provided practical experience in:
 - Understanding common cyber threats.
 - Password security and URL analysis.
 - Cybersecurity awareness and safe online practices.
+- Deploying a Flask application for public access.
 
 ## 👨‍🎓 Project Information
 
 **Project Name:** Cyber Security Awareness & Threat Analysis System  
 **Project Type:** College Academic Project  
-**Semester:** 6th Semester  
+**Semester:** 7th Semester  
 **Developed By:** Akshita Dixit
 
 ---
