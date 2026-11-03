@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CYBER SECURITY AWARENESS</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <style>
+        .container {
+            padding: 30px;
+        }
+
+        /* 🔳 GRID */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 25px;
+            margin-top: 40px;
+        }
+
+        /* 🧊 CYBER BOX */
+        .box {
+            background: rgba(0,0,0,0.75);
+            padding: 20px;
+            border-radius: 15px;
+            text-align: left;
+            position: relative;
+            overflow: hidden;
+            transition: 0.4s;
+        }
+
+        /* 🔥 NEON BORDER */
+        .box::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            border-radius: 15px;
+            padding: 2px;
+
+            background: linear-gradient(270deg, cyan, blue, purple, cyan);
+            background-size: 400% 400%;
+            animation: borderMove 5s linear infinite;
+
+            -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+            -webkit-mask-composite: xor;
+            mask-composite: exclude;
+
+            pointer-events: none;
+        }
+
+        @keyframes borderMove {
+            0% { background-position: 0% 50%; }
+            100% { background-position: 100% 50%; }
+        }
+
+        /* ✨ HOVER EFFECT */
+        .box:hover {
+            transform: translateY(-10px) scale(1.03);
+            box-shadow: 0 0 25px cyan;
+        }
+
+        /* 🧠 HEADINGS */
+        .box h2 {
+            color: #00eaff;
+            text-shadow: 0 0 10px cyan;
+            margin-bottom: 10px;
+        }
+
+        /* 📄 TEXT */
+        .box p {
+            color: #ccc;
+            margin-bottom: 10px;
+        }
+
+        .box ul {
+            margin-left: 15px;
+            color: #ddd;
+        }
+
+        .box li {
+            margin-bottom: 6px;
+        }
+
+        /* 🔙 BUTTON */
+        .back-btn {
+            display: inline-block;
+            margin-top: 40px;
+            text-decoration: none;
+            border: 1px solid cyan;
+            color: cyan;
+            padding: 10px 20px;
+            border-radius: 6px;
+            transition: 0.3s;
+        }
+
+        .back-btn:hover {
+            background: cyan;
+            color: black;
+            box-shadow: 0 0 10px cyan;
+        }
+    </style>
+</head>
+
+<!-- 🔥 IMPORTANT: BACKGROUND APPLY -->
+<body class="awareness-page">
+
+<!-- 🔝 NAVBAR -->
+<div class="navbar">
+    <a href="/">Home</a>
+    <a href="/url">URL Checker</a>
+    <a href="/password">Password</a>
+    <a href="/awareness">Awareness</a>
+</div>
+
+<div class="container">
+
+<h1>🛡️ Cyber Security Awareness Dashboard</h1>
+
+<div class="grid">
+
+<div class="box">
+<h2>🔍 Phishing Attacks</h2>
+<p>Fake websites/emails used to steal sensitive data.</p>
+<ul>
+    <li>Check URL carefully</li>
+    <li>Avoid unknown links</li>
+    <li>Never enter credentials blindly</li>
+</ul>
+</div>
+
+<div class="box">
+<h2>💰 UPI Frauds</h2>
+<ul>
+    <li>PIN is for sending money only</li>
+    <li>Don’t scan unknown QR codes</li>
+    <li>Ignore unknown requests</li>
+</ul>
+</div>
+
+<div class="box">
+<h2>📈 Investment Scams</h2>
+<ul>
+    <li>No guaranteed profits</li>
+    <li>Verify platforms</li>
+    <li>Avoid WhatsApp trading groups</li>
+</ul>
+</div>
+
+<div class="box">
+<h2>📞 Fake Calls</h2>
+<ul>
+    <li>No real officer asks money</li>
+    <li>Don’t panic</li>
+    <li>Verify identity</li>
+</ul>
+</div>
+
+<div class="box">
+<h2>💼 Job Scams</h2>
+<ul>
+    <li>No job requires payment</li>
+    <li>Check company details</li>
+    <li>Avoid fake offers</li>
+</ul>
+</div>
+
+<div class="box">
+<h2>🧠 AI Scams</h2>
+<ul>
+    <li>Beware of deepfake calls</li>
+    <li>Verify before trusting</li>
+    <li>Don’t share sensitive info</li>
+</ul>
+</div>
+
+<div class="box">
+<h2>🌐 Safe Practices</h2>
+<ul>
+    <li>Use strong passwords</li>
+    <li>Enable 2FA</li>
+    <li>Update software</li>
+    <li>Avoid public WiFi</li>
+</ul>
+</div>
+
+<div class="box">
+<h2>📰 Latest Trends</h2>
+<ul>
+    <li>UPI frauds rising</li>
+    <li>Fake investment apps</li>
+    <li>AI phishing attacks</li>
+    <li>Job & loan scams</li>
+</ul>
+</div>
+
+</div>
+
+<a href="/" class="back-btn">⬅ Back to Home</a>
+
+</div>
+
+</body>
+</html>
